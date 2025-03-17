@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Jon]!
+# Hi there 👋, I'm Jon!
 
-I'm a passionate **[Site Reliability & Platform Engineer]** from [West Yorshire].  
-- 🌱 I’m currently learning **[Anything & Everything]**  
+I'm a passionate **Site Reliability & Platform Engineer** from West Yorshire.  
+- 🌱 I’m currently learning **Anything & Everything**  
 - 📫 How to reach me: **[jon.candlin@gmail.com https://www.linkedin.com/in/jon-candlin-2730a87/]**  
 - ⚡ Fun fact: **[Father of three daughters]**  
 
@@ -27,4 +27,4 @@ I'm a passionate **[Site Reliability & Platform Engineer]** from [West Yorshire]
 ---
 
 ### 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=jcandlin&show_icons=true&theme=dark
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jcandlin&show_icons=true&theme=dark)
